@@ -4,5 +4,13 @@
     <title>Whisper</title>
     <description>Mises à jour de Whisper</description>
     <language>fr</language>
+      <item>
+      <title>Whisper 1.0 (build 18)</title>
+      <pubDate>Wed, 01 Jul 2026 11:34:33 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/kolya-rowads/whisper-releases/releases/download/v1.0-18/Whisper-18.zip" sparkle:edSignature="2Ud+6iOUNYXEchKrIwspa48ufyVzwMZwUzMoqnr2SCD9pPZmctyt52Q1GJIB8vlBMuEtKb5KCrn74hYVTu90Cg==" length="1694410" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
