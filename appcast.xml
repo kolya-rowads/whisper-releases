@@ -116,5 +116,13 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/kolya-rowads/whisper-releases/releases/download/v1.1-31/Whisper-31.zip" sparkle:edSignature="Wug3WnVH3qvcJGlQTYqFUJL2Fz3MMREefiv6BfbVZOP7yJtv1pWxUrAtJuq9CrujcErDbdPjXYJy7aGdx2q5AQ==" length="5361273" type="application/octet-stream"/>
     </item>
+      <item>
+      <title>Whisper 1.1 (build 32)</title>
+      <pubDate>Thu, 01 Oct 2026 15:52:55 +0000</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/kolya-rowads/whisper-releases/releases/download/v1.1-32/Whisper-32.zip" sparkle:edSignature="UxKz7vK34eqXmFamd5WWrPVJgFmwrosnczQL9Aw8SXaHTolyiUASwFSzVoKiEA9c6k6pmQ4lveUVlb6ceXJSDA==" length="5362762" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
